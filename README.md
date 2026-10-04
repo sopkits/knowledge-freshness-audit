@@ -25,7 +25,7 @@ Claude Code users: copy the `knowledge-freshness-audit/` folder into your skills
 
 ## Want to fix the problem at the source?
 
-The audit finds what's broken. The **[Process-to-Skill Kit](https://jstorekeeper.gumroad.com/l/process-to-skill-kit)** writes it right the first time: explain a process once, and get an SOP for your team, a Claude skill for your agent, and a chatbot-ready knowledge base article with an owner and review date - all from one conversation. Includes this audit skill.
+The audit finds what's broken. The **[Process-to-Skill Kit](https://sopkits.gumroad.com/l/process-to-skill-kit)** writes it right the first time: explain a process once, and get an SOP for your team, a Claude skill for your agent, and a chatbot-ready knowledge base article with an owner and review date - all from one conversation. Includes this audit skill.
 
 ## License
 
